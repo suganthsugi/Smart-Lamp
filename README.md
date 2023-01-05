@@ -1,1 +1,3 @@
 # Smart-Lamp
+
+The above file contains circuit diagram and source code for implementation of IOT based smart lamp...
